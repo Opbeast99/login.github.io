@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+}
+
+header{
+    background-image: url(images/body.jpeg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.title{
+    margin-top: 50px;
+}
+
+.title h2{
+    color: #fff;
+    font-size: 50px;
+}
+
+    height: auto;
+    width: 90px;
+    position: absolute;
+    top: 50%;
+    right: 55%;
+    transform: translate(-50%,-50%);
+}
+
+.dcredirect img{
+    height: auto;
+    width: 70px;
+    position: absolute;
+    top: 50%;
+    right: 48%;
+    transform: translate(-50%,-50%);
+}
+
+.gmailredirect{
+    height: auto;
+    width: 1000px;
+    position: absolute;
+    top: 50%;
+    right: -25%;
+    transform: translate(-50%,-50%) 
+}
+
+.button{
+    margin-top: 200px;
+}
